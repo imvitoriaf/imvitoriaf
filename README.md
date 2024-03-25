@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Vitória Freitas 👋
 
-- 🔭 Sou estudante da Fatec de Itaquaquecetuba em busca de estágio na área de TI
-- 🌱 Estudando Java
+- 🔭 Sou estudante da Fatec de Itaquaquecetuba
+- 🌱 Estudando gestão de projetos e algumas linguagens de programação
 - 📫 Contate-me no email: vitoriasouza647@gmail.com 
 - 😄 Pronomes: ela/dela
 
